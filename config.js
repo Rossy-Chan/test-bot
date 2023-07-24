@@ -42,7 +42,7 @@ global.nomorwa = '0'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'ayody\'
+global.author = 'ayodya'
 global.namebot = 'rossy inc'
 global.wm = '© cute whatsapp bot by ayodya.au'
 global.watermark = wm
