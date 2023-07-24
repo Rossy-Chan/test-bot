@@ -32,19 +32,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['947598747976', 'ayodya', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '94759874797'
+global.nomorown = '94759874797'
 global.nomorwa = '0'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'ShirokamiRyzen'
-global.namebot = 'Nao-Botz V5'
-global.wm = '© NaoBotz By ShirokamiRyzen'
+global.author = 'ayody\'
+global.namebot = 'rossy inc'
+global.wm = '© cute whatsapp bot by ayodya.au'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
@@ -54,27 +54,27 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 /*============= OWNER INFO =============*/
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'ayodya'
+global.nameown2 = 'ayodya'
 /*============= MEDIA LINK =============*/
-global.Linkgc = 'Bentar'
+global.Linkgc = 'roosy chan'
 global.lynk = ''
 
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen' //github
-global.sgc = '-' //group whatsapp
-global.sdc = '-' //discord
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.sig = 'https://github.com/Rossy-Chan'
+global.sgh = 'https://github.com/Rossy-Chan' //github
+global.sgc = 'https://chat.whatsapp.com/FKB3BjBGMYjBJZfJXjEAOa' //group whatsapp
+global.sdc = 'https://chat.whatsapp.com/FKB3BjBGMYjBJZfJXjEAOa' //discord
+global.snh = 'https://github.com/Rossy-Chan'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pdana = 'https://github.com/Rossy-Chan6'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = 'https://github.com/Rossy-Chan'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
+global.ppulsa = 'https://github.com/Rossy-Chan'
+global.ppulsa2 = 'https://github.com/Rossy-Chan'
 global.psaweria = '-'
 
 
@@ -196,7 +196,7 @@ global.lolkey = 'SGWN' //buy API at https://api.lolhuman.xyz
 global.lankey = 'YOUR_APIKEY_HERE' //buy API at https://api.lannn.me/
 global.botcahx = 'YOUR_APIKEY_HERE' //https://api.botcahx.live/
 global.uptime = 'u1931038-1f70a77eef5964be82e7d606' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
-global.xzn = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://xzn.wtf/
+global.xzn = 'Ayodya2007' //daftar sendiri jika key habis https://xzn.wtf/
 global.xyro = 'YOUR_APIKEY_HERE' //https://api.xyroinee.xyz/
 
 global.APIs = {
@@ -246,10 +246,10 @@ global.fla = [
 ]
 global.hwaifu = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
 
-global.dtu = 'INSTAGRAM'
-global.urlnya = "https://www.instagram.com/ryzen_vermillion"
+global.dtu = 'github'
+global.urlnya = "https://github.com/Rossy-Chan"
 global.dtc = 'CALL OWNER'
-global.phn = '0813 8730 7198'
+global.phn = '0'
 
 
 /*============= JANGAN DIUBAH =============*/
